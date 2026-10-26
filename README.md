@@ -3,19 +3,19 @@
 </p>
 
 <p align="center">
-  <a href="https://chuviss.onrender.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Onest&weight=600&size=22&duration=3000&pause=900&color=7C5CFF&center=true&vCenter=true&width=620&lines=%D0%92%D0%B5%D0%B4%D1%83+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BE%D1%82+%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9+%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%B5%D0%BD%D0%B0;React+%2B+TypeScript+%D0%BD%D0%B0+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5;FastAPI+%2B+PostgreSQL+%D0%BD%D0%B0+%D0%B1%D1%8D%D0%BA%D0%B5;Docker+%2B+GitHub+Actions+%D0%B4%D0%BB%D1%8F+%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82+%D0%BA+%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B5+%D0%B8+%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D1%83" alt="Typing SVG">
+  <a href="https://chuviss.ru">
+    <img src="https://readme-typing-svg.demolab.com?font=Onest&weight=600&size=22&duration=3000&pause=900&color=7C5CFF&center=true&vCenter=true&width=620&lines=%D0%92%D0%B5%D0%B4%D1%83+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BE%D1%82+%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9+%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%B5%D0%BD%D0%B0;React+%2B+TypeScript+%D0%BD%D0%B0+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5;FastAPI+%2B+PostgreSQL+%D0%BD%D0%B0+%D0%B1%D1%8D%D0%BA%D0%B5;Docker+%2B+GitHub+Actions+%D0%B4%D0%BB%D1%8F+%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82+%D0%BA+%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F%D0%BC+%D0%B8+%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D1%83" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://chuviss.onrender.com"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-chuviss.onrender.com-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Портфолио"></a>
+  <a href="https://chuviss.ru"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-chuviss.ru-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Портфолио"></a>
   <a href="https://t.me/aleksandr_one23"><img src="https://img.shields.io/badge/Telegram-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-22d3ee?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:chuvilova2005@gmail.com"><img src="https://img.shields.io/badge/Email-chuvilova2005@gmail.com-ff5fd2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82_%D0%BA_%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B5_%C2%B7_junior_%C2%B7_%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81-2ea44f?style=flat-square" alt="Статус">
+  <img src="https://img.shields.io/badge/%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82_%D0%BA_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F%D0%BC_%D0%B8_%D1%84%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81%D1%83-2ea44f?style=flat-square" alt="Открыт к вакансиям и фрилансу">
   <img src="https://img.shields.io/badge/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_%C2%B7_%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4_%C2%B7_%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D0%BE-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Локация">
 </p>
 
@@ -45,26 +45,12 @@
 
 ## Стек
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,vite&perline=8" alt="Frontend"></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,rabbitmq&perline=8" alt="Backend"></td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&perline=8" alt="DevOps"></td>
-  </tr>
-  <tr>
-    <td><b>Ещё пишу на</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,c,cs,swift&perline=8" alt="Другие языки"></td>
-  </tr>
-</table>
-
-**Анализ и данные:** требования · проектирование БД · SQL · pandas · Excel / Sheets · Power BI и Tableau (база) · **English B1**
+- **Frontend:** React, TypeScript, JavaScript, Next.js, Tailwind, Vite
+- **Backend:** Python, FastAPI, REST API, pytest
+- **Анализ и данные:** требования, проектирование БД, SQL, PostgreSQL, pandas, Excel / Sheets, Power BI и Tableau (база)
+- **DevOps:** Docker, docker-compose, GitHub Actions, Redis, MinIO, RabbitMQ, Linux, Git
+- **Другие языки:** C++ / C, C#, Swift
+- **Английский:** B1
 
 ## Статистика
 
@@ -109,9 +95,9 @@ I take web apps from requirements to production: I design the system and data, b
 
 ### Looking for
 
-An internship or junior role, plus freelance projects: Moscow (office or hybrid) or remote.
+Open to job offers and freelance projects: Moscow (office or hybrid) or remote.
 
-**Portfolio:** [chuviss.onrender.com](https://chuviss.onrender.com) · **Telegram:** [@aleksandr_one23](https://t.me/aleksandr_one23) · **Email:** [chuvilova2005@gmail.com](mailto:chuvilova2005@gmail.com)
+**Portfolio:** [chuviss.ru](https://chuviss.ru) · **Telegram:** [@aleksandr_one23](https://t.me/aleksandr_one23) · **Email:** [chuvilova2005@gmail.com](mailto:chuvilova2005@gmail.com)
 
 </details>
 
